@@ -36,3 +36,29 @@ const person = {
 // console.log(personObject("Vali", 20, "Enginer")); //8
 
 // Tugadi
+
+// Umumlashtiruvchi masalalar.
+
+//1
+// const nums = "2452343765836765";
+
+// function findThree(nums) {
+//   let times = 0;
+//   for (let i = 0; i < nums.length; i++) {
+//     if (nums[i] == 3) {
+//       times += 1;
+//     }
+//   }
+//   return times;
+// }
+// console.log(findThree(nums));
+
+//2
+// function createToqSon(n) {
+//   let result = [];
+//   for (let i = 1; i <= n; i += 2) {
+//     result.push(i);
+//   }
+//   return result;
+// }
+// console.log(createToqSon(10));
