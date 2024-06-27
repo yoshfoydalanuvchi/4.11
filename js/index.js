@@ -62,3 +62,10 @@ const person = {
 //   return result;
 // }
 // console.log(createToqSon(10));
+
+//3
+// function removeStar(params) {
+//   let result = params.replaceAll("*", "");
+//   return result;
+// }
+// console.log(removeStar("*Hello World*"));
