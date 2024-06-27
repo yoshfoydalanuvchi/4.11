@@ -69,3 +69,15 @@ const person = {
 //   return result;
 // }
 // console.log(removeStar("*Hello World*"));
+
+//4
+// function removeElement(param) {
+//   let result = "";
+//   for (let i = 0; i < param.length; i++) {
+//     if (i != 1) {
+//       result += param[i];
+//     }
+//   }
+//   return result;
+// }
+// console.log(removeElement("Hello World"));
